@@ -6,5 +6,11 @@ Springboard Bootcamp
 
 ## Work Experience
 
-##Projects 
--
+## Projects 
+Connect Four!
+
+Jeopardy!
+
+Makeup App
+
+EventMe App
