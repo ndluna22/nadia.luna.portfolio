@@ -1,10 +1,10 @@
-# Software Engineer
+# Nadia Luna Portfolio
 
-##Education
+## Education
 
 Springboard Bootcamp
 
-##Work Experience
+## Work Experience
 
 ##Projects 
 -
